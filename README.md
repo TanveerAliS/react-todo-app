@@ -12,4 +12,6 @@ cd react-todo-app
 npm i
 npm start
 
+```
+
 Thanks! :heart:
