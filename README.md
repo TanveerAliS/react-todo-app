@@ -2,7 +2,7 @@
 
 > A React + Redux powered todo app.
 
-**Hey!** :blush: This is TODO React Application. If you find any tips, please share them with me and let me know what can pe improved.
+**Hey!** :blush: This is TODO React Application. If you find any tips, please share them with me and let me know what can be improved.
 
 ## :cloud: Installation
 
