@@ -7,14 +7,9 @@
 ## :cloud: Installation
 
 ```sh
-git clone https://github.com/IonicaBizau/react-todo-app/
+git clone https://github.com/TanveerAliS/react-todo-app
 cd react-todo-app
 npm i
-npm run start:dev
-open localhost:8080
-
-# To build the app for production, run the following command:
-npm run bundle
-```
+npm start
 
 Thanks! :heart:
