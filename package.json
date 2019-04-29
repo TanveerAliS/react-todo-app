@@ -4,11 +4,12 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node server.js",
+    "start": "react-scripts start",
     "deploy": "now --public",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test-coverage": "react-scripts test --coverage && codecov"
+    "test-coverage": "react-scripts test --coverage && codecov",
+    "now-build": "react-scripts build"
   },
   "lint-staged": {
     "*.{json,css, md}": [
