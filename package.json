@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server.js",
+    "deploy": "now --public",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test-coverage": "react-scripts test --coverage && codecov"
@@ -38,6 +39,9 @@
     "@fortawesome/free-solid-svg-icons": "5.8.1",
     "@fortawesome/react-fontawesome": "0.1.4",
     "bootswatch": "4.3.1",
+    "express": "^4.16.4",
+    "express-favicon": "^2.0.1",
+    "path": "^0.12.7",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-beautiful-dnd": "11.0.1",

@@ -7,7 +7,6 @@
 /coverage
 
 # production
-/build
 
 # misc
 .DS_Store
@@ -22,3 +21,8 @@ yarn-error.log*
 
 # IDEs
 .idea/
+
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
